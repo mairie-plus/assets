@@ -1,0 +1,21 @@
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+    <!-- Institution Blue -->
+    <rect x="10" y="10" width="100" height="50" fill="#0056A6"/>
+    <text x="120" y="40" font-size="16" font-family="Arial" fill="#000">Institution Blue (#0056A6)</text>
+
+    <!-- Civic Teal -->
+    <rect x="10" y="70" width="100" height="50" fill="#248F8D"/>
+    <text x="120" y="100" font-size="16" font-family="Arial" fill="#000">Civic Teal (#248F8D)</text>
+
+    <!-- Reliable Grey -->
+    <rect x="10" y="130" width="100" height="50" fill="#3C3C3C"/>
+    <text x="120" y="160" font-size="16" font-family="Arial" fill="#000">Reliable Grey (#3C3C3C)</text>
+
+    <!-- Soft Beige -->
+    <rect x="10" y="190" width="100" height="50" fill="#EFEDE7"/>
+    <text x="120" y="220" font-size="16" font-family="Arial" fill="#000">Soft Beige (#EFEDE7)</text>
+
+    <!-- Pure White -->
+    <rect x="10" y="250" width="100" height="50" fill="#FFFFFF" stroke="#000" stroke-width="1"/>
+    <text x="120" y="280" font-size="16" font-family="Arial" fill="#000">Pure White (#FFFFFF)</text>
+</svg>
